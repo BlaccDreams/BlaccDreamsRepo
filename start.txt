@@ -1,1 +1,8 @@
-Test Git Quick Start demo
+Package: com.blaccdreams.ipiratetweakz
+Name: iPirateTweaks
+Version 1.0.0
+Architecture: iphoneos-arm
+Description: Your Favorite Tweaks
+Maintainer: Markez Marshall (BlaccDreams) <Markez.Marshall@yahoo.com>
+Author: Markez Marshall (BlaccDreams) <Markez.Marshall@yahoo.com>
+Section: Tweaks (Springboard)
